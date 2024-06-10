@@ -1,0 +1,1 @@
+This repository contains a C++ implementation of various numerical methods, including bisection method for finding roots of a function, and sequence generation for different convergence behaviors.
