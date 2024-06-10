@@ -1,0 +1,1 @@
+This project demonstrates the implementation of optimization techniques including Newton's Method, Gradient Descent, and Stochastic Gradient Descent. The key functions include the Rosenbrock function for benchmarking, its gradient and Hessian matrix, and the implementation of the optimization algorithms.
