@@ -1,0 +1,3 @@
+/Users/vahealeksanyan/Desktop/projects/CPP_problem_solving_experiments/exp12/cmake-build-debug/CMakeFiles/exp12.dir
+/Users/vahealeksanyan/Desktop/projects/CPP_problem_solving_experiments/exp12/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/vahealeksanyan/Desktop/projects/CPP_problem_solving_experiments/exp12/cmake-build-debug/CMakeFiles/rebuild_cache.dir
