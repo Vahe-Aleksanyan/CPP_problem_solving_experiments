@@ -1,0 +1,3 @@
+Fixed point iteration method
+
+This C++ program implements the fixed-point iteration method to find the root of a function using two mathematical functions, function_a and function_b. It starts with an initial guess and iterates until the difference between successive approximations is less than a specified tolerance (epsilon). The program outputs the approximated root and the number of iterations required. To use the program, compile it with a C++ compiler and run the executable, adjusting the initial guess and epsilon values as needed.
